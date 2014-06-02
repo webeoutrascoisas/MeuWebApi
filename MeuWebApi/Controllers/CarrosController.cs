@@ -1,7 +1,6 @@
-﻿using System.Linq;
-using System.Web.Http.Results;
-using MeuWebApi.Models;
+﻿using MeuWebApi.Models;
 using System.Collections.Generic;
+using System.Linq;
 using System.Web;
 using System.Web.Http;
 
